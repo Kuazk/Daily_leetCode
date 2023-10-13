@@ -1,1 +1,0 @@
-../Cellar/python@3.9/3.9.12_1/bin/python3
