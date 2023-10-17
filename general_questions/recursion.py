@@ -87,3 +87,5 @@ def GCD_iter(A,B):
         A,B = B, A%B
     return B
 
+stack = [(1,6)]
+print(stack[0][1])
